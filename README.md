@@ -1,7 +1,7 @@
 ## Hi guys 👋 I am Nieves 👸
 
-I am a Java ☕ Web Developer at Kubo Financiero 💚.
-I have two years of experience working with **Java** ☕.
+I am a Java ☕ Web Developer.
+I have four years of experience working with **Java** ☕.
 
 ## Other technologies I use:
 - **Backend:** Java, Spring Boot 
